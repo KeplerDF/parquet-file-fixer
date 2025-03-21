@@ -1,0 +1,7 @@
+account_id,account_name,customer_tenant_prefix,proposal_record_type,fse_model,labor_service_worker_full_time,labor_service_worker_part_time,emerging_market_worker,short_term_seasonal_worker,true_up_count_month,true_up_count_day,isdeleted_flag,isoverride_flag,created_date,created_by
+1,Account 1,Customer 1,Proposal,FSE Standard,0,0,1,0,May,2,FALSE,FALSE,14/11/2023,DI_USER
+2,Account 2,Customer 2,Proposal,FSE Standard,0,0,0,0,April,19,FALSE,TRUE,14/11/2023,DI_USER
+3,Account 3,Customer 3,Proposal,FSE Standard,1,1,0,1,November,15,FALSE,TRUE,14/11/2023,DI_USER
+4,Account 4,Customer 4,Proposal,FSE Standard,1,1,0,0,November,2,FALSE,TRUE,14/11/2023,DI_USER
+5,Account 5,Customer 5,Subscription,FSE Standard,0,0,0,0,September,1,FALSE,TRUE,14/11/2023,DI_USER
+6,Account 6,Customer 6,Proposal,FSE Standard,1,1,0,0,May,2,FALSE,TRUE,14/11/2023,DI_USER
